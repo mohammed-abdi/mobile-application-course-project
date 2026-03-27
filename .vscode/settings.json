@@ -4,5 +4,8 @@
   "[java]": {
     "editor.defaultFormatter": "redhat.java"
   },
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "java.project.sourcePaths": [
+    "apps/mobile/lib/screens"
+  ]
 }
